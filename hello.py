@@ -9,3 +9,15 @@ x=True
 print(type(x))
 x=3.6
 print(type(x))
+
+# variable naming conventions and rules
+# contains lettes , digits and underscore
+# must start with _ or letter
+# cant start with number
+# case sensitive and no keywords
+
+
+name = "vishal"
+name = "Akshith"
+
+# variable naming should be done in snake case variable naming
